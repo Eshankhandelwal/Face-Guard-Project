@@ -4,14 +4,6 @@ A full-stack AI-powered surveillance and communication system built for
 police departments. Developed as a final year project at Jaipur Engineering
 College and Research Centre, Dept. of Computer Science & Engineering.
 
-## Team
-- Manav Mudgal (22EJCCS125)
-- Deepak Choudhary (22EJCCS069)
-- Indresh Mehta (22EJCCS099)
-- Kanika (22EJCCS104)
-
-**Guide:** Ms. Kanika Bhutani — Assistant Professor, CSE
-
 ---
 
 ## What This Project Does
